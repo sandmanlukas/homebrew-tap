@@ -6,6 +6,6 @@ class TramChecker < Formula
   version "0.1.0"
 
   def install
-    bin.install "tram-checker"
+    bin.install "tram_checker"
   end
 end
