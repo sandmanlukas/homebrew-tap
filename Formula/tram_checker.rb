@@ -2,7 +2,7 @@ class TramChecker < Formula
   desc "CLI to get coming tram/bus departures in Vastra Gotaland using Västtrafik API."
   homepage "https://github.com/sandmanlukas/Tram-Checker"
   url "https://github.com/sandmanlukas/Tram-Checker/releases/download/v0.1.2/tram_checker-0.1.2-ARM-apple-monterey.tar.gz"
-  sha256 "7cad923ac0aa09472d6373e7c36a226227d6542c8c147f8ace64f3e5d1f35589"
+  sha256 "a4f59cde2248d10e54340f60e82e307c9958503348f0cbc709b1e7fb77c9ba3e"
   version "0.1.2"
 
   def install
